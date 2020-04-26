@@ -1,0 +1,11 @@
+{
+    "bot_name": "GiotA",
+    "description": "A general purpose python template for personal assistants",
+    "audio": false,
+    "aiml_bot": true, 
+    "zipcode": "97051", 
+    "country": "US",
+    "maps_api_key": "AIzaSyCe4e_pa80mv4yhujMrxI9zh30sXSWigfo"
+}
+
+

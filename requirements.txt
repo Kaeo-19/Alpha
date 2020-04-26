@@ -1,0 +1,5 @@
+nltk
+noaa_sdk
+speechrecognition
+pyaiml
+requests
